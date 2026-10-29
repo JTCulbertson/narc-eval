@@ -1,0 +1,12 @@
+{
+  "0": "none",
+  "1": "solid",
+  "2": "dots",
+  "3": "diag",
+  "4": "cross",
+  "5": "horiz",
+  "6": "vert",
+  "7": "checker",
+  "8": "ring",
+  "9": "antidiag"
+}

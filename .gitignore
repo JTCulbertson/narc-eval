@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Inspect AI run logs
+logs/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Puzzle data and renders are private; only the pipeline is published
+narc-eval/data/
+narc-eval/images/
+narc-eval/greyscale_images/
